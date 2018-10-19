@@ -3,10 +3,10 @@
 /*                                                        ::::::::            */
 /*   rush0.h                                            :+:    :+:            */
 /*                                                     +:+                    */
-/*   By: svan-win <marvin@codam.nl>                   +#+                     */
+/*   By: IHaveNoClueI <ctfx337@gmail.com>             +#+                     */
 /*                                                   +#+                      */
-/*   Created: 2018/10/13 13:34:10 by svan-win      #+#    #+#                 */
-/*   Updated: 2018/10/14 20:55:22 by svan-win      ########   odam.nl         */
+/*   Created: 2018/10/13 13:34:10 by IHaveNoClueI  #+#    #+#                 */
+/*   Updated: 2018/10/14 20:55:22 by IHaveNoClueI  ########   odam.nl         */
 /*                                                                            */
 /* ************************************************************************** */
 

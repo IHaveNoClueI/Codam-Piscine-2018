@@ -3,10 +3,10 @@
 /*                                                        ::::::::            */
 /*   ft_putchar.c                                       :+:    :+:            */
 /*                                                     +:+                    */
-/*   By: clie-kwi <marvin@codam.nl>                   +#+                     */
+/*   By: IHaveNoClueI <ctfx337@gmail.com>             +#+                     */
 /*                                                   +#+                      */
-/*   Created: 2018/09/30 21:27:43 by clie-kwi      #+#    #+#                 */
-/*   Updated: 2018/09/30 21:29:41 by clie-kwi      ########   odam.nl         */
+/*   Created: 2018/09/30 21:27:43 by IHaveNoClueI  #+#    #+#                 */
+/*   Updated: 2018/09/30 21:29:41 by IHaveNoClueI  ########   odam.nl         */
 /*                                                                            */
 /* ************************************************************************** */
 

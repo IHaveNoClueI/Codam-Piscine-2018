@@ -3,10 +3,10 @@
 /*                                                        ::::::::            */
 /*   main.c                                             :+:    :+:            */
 /*                                                     +:+                    */
-/*   By: clie-kwi <marvin@codam.nl>                   +#+                     */
+/*   By: IHaveNoClueI <ctfx337@gmail.com>             +#+                     */
 /*                                                   +#+                      */
-/*   Created: 2018/09/30 20:10:48 by clie-kwi      #+#    #+#                 */
-/*   Updated: 2018/09/30 22:47:08 by clie-kwi      ########   odam.nl         */
+/*   Created: 2018/09/30 20:10:48 by IHaveNoClueI  #+#    #+#                 */
+/*   Updated: 2018/09/30 22:47:08 by IHaveNoClueI  ########   odam.nl         */
 /*                                                                            */
 /* ************************************************************************** */
 

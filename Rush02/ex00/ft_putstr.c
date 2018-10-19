@@ -3,10 +3,10 @@
 /*                                                        ::::::::            */
 /*   ft_putstr.c                                        :+:    :+:            */
 /*                                                     +:+                    */
-/*   By: svan-win <marvin@codam.nl>                   +#+                     */
+/*   By: IHaveNoClueI <ctfx337@gmail.com>             +#+                     */
 /*                                                   +#+                      */
-/*   Created: 2018/10/14 20:12:29 by svan-win      #+#    #+#                 */
-/*   Updated: 2018/10/14 20:15:56 by svan-win      ########   odam.nl         */
+/*   Created: 2018/10/14 20:12:29 by IHaveNoClueI  #+#    #+#                 */
+/*   Updated: 2018/10/14 20:15:56 by IHaveNoClueI  ########   odam.nl         */
 /*                                                                            */
 /* ************************************************************************** */
 

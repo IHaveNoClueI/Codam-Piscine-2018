@@ -3,10 +3,10 @@
 /*                                                        ::::::::            */
 /*   ft_putnbr.c                                        :+:    :+:            */
 /*                                                     +:+                    */
-/*   By: lvan-vlo <marvin@codam.nl>                   +#+                     */
+/*   By: IHaveNoClueI <ctfx337@gmail.com>             +#+                     */
 /*                                                   +#+                      */
-/*   Created: 2018/10/14 10:16:35 by lvan-vlo      #+#    #+#                 */
-/*   Updated: 2018/10/14 10:20:56 by lvan-vlo      ########   odam.nl         */
+/*   Created: 2018/10/14 10:16:35 by IHaveNoCleuI  #+#    #+#                 */
+/*   Updated: 2018/10/14 10:20:56 by IHaveNoCleuI  ########   odam.nl         */
 /*                                                                            */
 /* ************************************************************************** */
 

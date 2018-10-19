@@ -3,10 +3,10 @@
 /*                                                        ::::::::            */
 /*   testmain.c                                         :+:    :+:            */
 /*                                                     +:+                    */
-/*   By: svan-win <marvin@codam.nl>                   +#+                     */
+/*   By: IHaveNoClueI <ctfx337@gmail.com>             +#+                     */
 /*                                                   +#+                      */
-/*   Created: 2018/10/14 17:43:17 by svan-win      #+#    #+#                 */
-/*   Updated: 2018/10/14 21:26:40 by svan-win      ########   odam.nl         */
+/*   Created: 2018/10/14 17:43:17 by IHaveNoClueI  #+#    #+#                 */
+/*   Updated: 2018/10/14 21:26:40 by IHaveNoClueI  ########   odam.nl         */
 /*                                                                            */
 /* ************************************************************************** */
 

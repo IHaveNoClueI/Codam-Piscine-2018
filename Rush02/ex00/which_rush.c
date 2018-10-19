@@ -3,10 +3,10 @@
 /*                                                        ::::::::            */
 /*   which_rush.c                                       :+:    :+:            */
 /*                                                     +:+                    */
-/*   By: lvan-vlo <marvin@codam.nl>                   +#+                     */
+/*   By: IHaveNoClueI <ctfx337@gmail.com>             +#+                     */
 /*                                                   +#+                      */
-/*   Created: 2018/10/13 16:03:49 by lvan-vlo      #+#    #+#                 */
-/*   Updated: 2018/10/14 20:16:49 by svan-win      ########   odam.nl         */
+/*   Created: 2018/10/13 16:03:49 by IHaveNoClueI  #+#    #+#                 */
+/*   Updated: 2018/10/14 20:16:49 by IHaveNoClueI  ########   odam.nl         */
 /*                                                                            */
 /* ************************************************************************** */
 
