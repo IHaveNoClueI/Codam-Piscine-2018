@@ -1,0 +1,6 @@
+Credentials cache: API:45733
+        Principal: kblazer@CODAM.NL
+
+  Issued                Expires               Principal
+Sep 24 11:31:28 2018  Oct  1 11:31:17 2018  krbtgt/CODAM.NL@CODAM.NL
+Sep 24 11:32:10 2018  Oct  1 11:31:17 2018  host/vogsphere.codam.nl@CODAM.NL

@@ -1,0 +1,5 @@
+#Compile Program
+gcc -o -Wall -Wextra -Werror filename filename.c
+
+#Create a.out
+cc filename.c

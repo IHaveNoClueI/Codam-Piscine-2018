@@ -1,0 +1,1 @@
+cat contacts_hard.txt | grep -i ^Nicolas | grep -i Bauer | tail -n -1
