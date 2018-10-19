@@ -3,10 +3,10 @@
 #                                                         ::::::::             #
 #    Makefile                                           :+:    :+:             #
 #                                                      +:+                     #
-#    By: kblazer <marvin@codam.nl>                    +#+                      #
+#    By: IHaveNoClueI <marvin@codam.nl>                    +#+                      #
 #                                                    +#+                       #
-#    Created: 2018/10/15 11:00:57 by kblazer       #+#    #+#                  #
-#    Updated: 2018/10/15 11:01:01 by kblazer       ########   odam.nl          #
+#    Created: 2018/10/15 11:00:57 by IHaveNoClueI       #+#    #+#                  #
+#    Updated: 2018/10/15 11:01:01 by IHaveNoClueI       ########   odam.nl          #
 #                                                                              #
 # **************************************************************************** #
 
