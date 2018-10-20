@@ -1,23 +1,38 @@
 /* ************************************************************************** */
 /*                                                                            */
 /*                                                         ::::::::           */
-/*   ft_strrev.c                                         :+:    :+:           */
+/*   ft_atoi.c                                           :+:    :+:           */
 /*                                                      +:+                   */
 /*   By: IHaveNoClueI <ctfx337@gmail.com>              +#+                    */
 /*                                                    +#+                     */
-/*   Created: 2018/10/20 23:34:44 by IHaveNoCl       #+#    #+#               */
-/*   Updated: 2018/10/20 23:34:56 by IHaveNoCl      ########   odam.nl        */
+/*   Created: 2018/10/20 23:11:16 by IHaveNoCl       #+#    #+#               */
+/*   Updated: 2018/10/20 23:11:19 by IHaveNoCl      ########   odam.nl        */
 /*                                                                            */
 /* ************************************************************************** */
 
-int	ft_strlen(char *str)
+#include <stdio.h>
+
+int	ft_atoi(char *str)
 {
+	int result;
+	int sign;
 	int i;
 
+	result = 0;
+	sign = 1;
 	i = 0;
+
+	if (str[0] == '-')
+	{
+		sign = -1;
+		i++;
+	}
+
 	while (str[i] != '\0')
 	{
+		result = result * 10 + str[i] - '0';
 		i++;
-		return (i);
 	}
+
+	return (sign * result);
 }
