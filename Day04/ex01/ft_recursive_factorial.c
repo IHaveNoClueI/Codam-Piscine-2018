@@ -1,3 +1,15 @@
+/* ************************************************************************** */
+/*                                                                            */
+/*                                                         ::::::::           */
+/*   ft_recursive_factorial.c                            :+:    :+:           */
+/*                                                      +:+                   */
+/*   By: IHaveNoClueI <ctfx337@gmail.com>              +#+                    */
+/*                                                    +#+                     */
+/*   Created: 2018/10/21 21:51:01 by IHaveNoCl       #+#    #+#               */
+/*   Updated: 2018/10/21 21:51:03 by IHaveNoCl      ########   odam.nl        */
+/*                                                                            */
+/* ************************************************************************** */
+
 #include <unistd.h>
 #include <stdio.h>
 
@@ -13,7 +25,7 @@ int ft_recursive_factorial(int nb)
 		printf("Recursive: %i", nb);
     }
 	return 0;
-    
+
 }
 
 int main()

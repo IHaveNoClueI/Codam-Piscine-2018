@@ -1,7 +1,7 @@
 /* ************************************************************************** */
 /*                                                                            */
 /*                                                         ::::::::           */
-/*   ft_putstr.c                                         :+:    :+:           */
+/*   ft_sort_integer_table.c                             :+:    :+:           */
 /*                                                      +:+                   */
 /*   By: IHaveNoClueI <ctfx337@gmail.com>              +#+                    */
 /*                                                    +#+                     */
@@ -10,26 +10,8 @@
 /*                                                                            */
 /* ************************************************************************** */
 
-#include <unistd.h>
-
-void	ft_putchar(char c)
+void	ft_sort_integer_table(int *tab, int size)
 {
-	write(1, &c, 1);
-}
+	tab = [];
 
-void	ft_putstr(char *str)
-{
-	int i;
-
-	while (str[i] != '\0')
-	{
-		ft_putchar(str[i]);
-		i++;
-	}
-}
-
-int	main (void)
-{
-	ft_putstr("Hello");
-	return (0);
 }

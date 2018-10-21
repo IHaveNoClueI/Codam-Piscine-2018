@@ -1,3 +1,15 @@
+/* ************************************************************************** */
+/*                                                                            */
+/*                                                         ::::::::           */
+/*   ft_print_memory.c                                   :+:    :+:           */
+/*                                                      +:+                   */
+/*   By: IHaveNoClueI <ctfx337@gmail.com>              +#+                    */
+/*                                                    +#+                     */
+/*   Created: 2018/10/21 21:51:01 by IHaveNoCl       #+#    #+#               */
+/*   Updated: 2018/10/21 21:51:03 by IHaveNoCl      ########   odam.nl        */
+/*                                                                            */
+/* ************************************************************************** */
+
 int		ft_putchar(char c);
 
 static void	print_hex(int i, unsigned int size, unsigned char *p)
